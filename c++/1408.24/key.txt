@@ -1,0 +1,4 @@
+<sstream>, <string>
+
+istringstream, getline으로 나누기
+stoi로 string -> int 변환
